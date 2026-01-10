@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.ysdaeth.j-crypt-credentials</groupId>
-  <artifactId>jcc</artifactId>
+  <artifactId>j-crypt-credentials</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
 
@@ -19,7 +19,6 @@
   </modules>
 
   <properties>
-    <maven.deploy.skip>true</maven.deploy.skip>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
